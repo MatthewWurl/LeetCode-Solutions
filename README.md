@@ -7,6 +7,7 @@ A repository for my accepted LeetCode solutions.
 | --- | --- | --- | --- |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0020.%20Valid%20Parentheses.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0094.%20Binary%20Tree%20Inorder%20Traversal.cpp) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0100.%20Same%20Tree.cpp) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp) |
 | 144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0144.%20Binary%20Tree%20Preorder%20Traversal.cpp) |
 | 145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Medium | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0145.%20Binary%20Tree%20Postorder%20Traversal.cpp) |
