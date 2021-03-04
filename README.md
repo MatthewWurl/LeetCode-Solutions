@@ -7,6 +7,8 @@ A repository for my accepted LeetCode solutions.
 | --- | --- | --- | --- |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0020.%20Valid%20Parentheses.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0094.%20Binary%20Tree%20Inorder%20Traversal.cpp) |
+| 144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0144.%20Binary%20Tree%20Preorder%20Traversal.cpp) |
+| 145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Medium | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0145.%20Binary%20Tree%20Postorder%20Traversal.cpp) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0206.%20Reverse%20Linked%20List.cpp)
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0237.%20Delete%20Node%20in%20a%20Linked%20List.cpp) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0242.%20Valid%20Anagram.cpp) |
