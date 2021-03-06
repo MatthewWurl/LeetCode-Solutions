@@ -5,6 +5,7 @@ A repository for my accepted LeetCode solutions.
 ## Solution Table
 | # | Name | Difficulty | Solution |
 | --- | --- | --- | --- |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C++/0009.%20Palindrome%20Number.cpp) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0020.%20Valid%20Parentheses.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0094.%20Binary%20Tree%20Inorder%20Traversal.cpp) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [C++](https://github.com/AnxietyMedicine/LeetCode-Solutions/blob/main/C%2B%2B/0100.%20Same%20Tree.cpp) |
