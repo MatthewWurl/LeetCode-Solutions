@@ -1,10 +1,18 @@
 # LeetCode-Solutions
 A repository for my accepted LeetCode solutions.
 
+## Current Solution Counts
+| Difficulty | Count |
+| --- | :---: |
+| Easy | 13 |
+| Medium | 9 |
+| Hard | 0 |
+| **Total** | **22** |
+
 
 ## Solution Table
 | # | Name | Difficulty | Solution |
-| --- | --- | --- | --- |
+| ---: | --- | :---: | :---: |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | [C++](C++/0009.%20Palindrome%20Number.cpp) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [C++](C++/0020.%20Valid%20Parentheses.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [C++](C++/0094.%20Binary%20Tree%20Inorder%20Traversal.cpp) |
