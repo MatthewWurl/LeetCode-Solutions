@@ -4,16 +4,18 @@ A repository for my accepted LeetCode solutions.
 ## Current Solution Counts
 | Difficulty | Count |
 | --- | :---: |
-| Easy | 13 |
-| Medium | 9 |
+| Easy | 14 |
+| Medium | 10 |
 | Hard | 0 |
-| **Total** | **22** |
+| **Total** | **24** |
 
 
 ## Solution Table
 | # | Name | Difficulty | Solution |
 | ---: | --- | :---: | :---: |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | [C++](C++/0009.%20Palindrome%20Number.cpp) |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | Medium | [C++](C++/0012.%20Integer%20to%20Roman.cpp) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [C++](C++/0013.%20Roman%20to%20Integer.cpp) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [C++](C++/0020.%20Valid%20Parentheses.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [C++](C++/0094.%20Binary%20Tree%20Inorder%20Traversal.cpp) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [C++](C++/0100.%20Same%20Tree.cpp) |
